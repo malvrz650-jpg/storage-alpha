@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>malvrz650-jpg</title>
+  <link rel="stylesheet" href="storage-index.css">
+  <script src="storage-index.js" defer></script>
+</head>
+<body data-storage-id="storage-alpha">
+  <main>
+    <header>
+      <div>
+        <h1>malvrz650-jpg</h1>
+        <p class="subtitle">Static file storage based on GitHub Pages</p>
+        <p class="subtitle">Storage ID: <strong>storage-alpha</strong></p>
+      </div>
+      <p class="notice">This page shows public metadata only. No secret material is embedded.</p>
+    </header>
+
+    <section class="grid" aria-label="Storage overview">
+      <div class="metric"><span>Format</span><strong id="formatVersion">-</strong></div>
+      <div class="metric"><span>Files</span><strong id="fileCount">-</strong></div>
+      <div class="metric"><span>Plain size</span><strong id="plainSize">-</strong></div>
+      <div class="metric"><span>Encrypted size</span><strong id="encryptedSize">-</strong></div>
+      <div class="metric"><span>Static files</span><strong id="staticFileCount">-</strong></div>
+      <div class="metric"><span>Static size</span><strong id="staticSize">-</strong></div>
+    </section>
+
+    <section class="panel">
+      <h2>Controls</h2>
+      <p id="status" class="status">Loading index.json...</p>
+      <div class="toolbar">
+        <label>Search files
+          <input id="search" type="search" placeholder="images/photo.jpg">
+        </label>
+        <label>Folder
+          <select id="folderFilter"><option value="">All folders</option></select>
+        </label>
+        <label>Layout
+          <select id="layoutFilter">
+            <option value="">All layouts</option>
+            <option value="single">Single</option>
+            <option value="chunked">Chunked</option>
+          </select>
+        </label>
+        <label>Sort
+          <select id="sortBy">
+            <option value="path">Path</option>
+            <option value="added">Added</option>
+            <option value="modified">Modified</option>
+            <option value="plain">Plain size</option>
+            <option value="encrypted">Encrypted size</option>
+            <option value="mime">MIME</option>
+          </select>
+        </label>
+        <button id="checkManifests" type="button">Check manifests</button>
+      </div>
+      <div id="folderSummary" class="chips" aria-label="Directory summary"></div>
+    </section>
+
+    <section>
+      <h2>Files</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Path</th>
+              <th>MIME</th>
+              <th>Layout</th>
+              <th>Added</th>
+              <th>Modified</th>
+              <th>Plain</th>
+              <th>Encrypted</th>
+              <th>Chunks</th>
+              <th>Links</th>
+            </tr>
+          </thead>
+          <tbody id="filesBody">
+            <tr><td class="empty" colspan="9">Loading files...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="static-files-section">
+      <h2>Static files</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Path</th>
+              <th>MIME</th>
+              <th>Added</th>
+              <th>Modified</th>
+              <th>Size</th>
+              <th>Digest</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody id="staticFilesBody">
+            <tr><td class="empty" colspan="7">Loading static-index.json...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
