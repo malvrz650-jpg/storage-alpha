@@ -1,0 +1,73 @@
+{
+  "logicalPath": "videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4",
+  "fileId": "f5ec819e608a34ed282f38fd1b738ca2e46064813a0fed7a7fe1654830de52e6",
+  "mime": "video/mp4",
+  "addedAt": "2026-06-20T22:58:04.072Z",
+  "modifiedAt": "2026-06-20T22:58:04.072Z",
+  "plaintextSize": 7850298,
+  "encryptedSize": 7850426,
+  "contentDigest": "keyed-blake3:W9FhNySRgjAmZoCDpPFKtt1sKIsvTKHYturC-_r2aZ0",
+  "layout": {
+    "kind": "chunked",
+    "salt": "R0wl53nbWC6LPxquMM6WHA",
+    "chunkSize": 1048576,
+    "chunks": [
+      {
+        "index": 0,
+        "nonce": "FAxDRHXwYTN0tOM4",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000000.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 1,
+        "nonce": "gjZ0f077QrIHAVmM",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000001.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 2,
+        "nonce": "k2tJlyXCxXK6Izwn",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000002.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 3,
+        "nonce": "CDhqrbveSv9yTml9",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000003.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 4,
+        "nonce": "tAsfLM7S6-oZy-rL",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000004.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 5,
+        "nonce": "PPvUp8GL3okFKKO8",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000005.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 6,
+        "nonce": "fk-8igSOLKGzXDS_",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000006.bin",
+        "plaintextSize": 1048576,
+        "encryptedSize": 1048592
+      },
+      {
+        "index": 7,
+        "nonce": "HTwwLl09azuVQfsL",
+        "object": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4/000007.bin",
+        "plaintextSize": 510266,
+        "encryptedSize": 510282
+      }
+    ]
+  }
+}

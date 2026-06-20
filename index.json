@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "defaults": {
+    "singleFileThreshold": 5242880,
+    "chunkSize": 1048576
+  },
+  "files": {
+    "videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4": {
+      "manifest": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4.manifest.json"
+    }
+  }
+}
