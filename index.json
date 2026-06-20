@@ -5,6 +5,18 @@
     "chunkSize": 1048576
   },
   "files": {
+    "images/2b0d1eb5-249c-4447-8c77-40cfdfab240b.png": {
+      "manifest": "encrypted/images/2b0d1eb5-249c-4447-8c77-40cfdfab240b.png.manifest.json"
+    },
+    "images/2e48cbfa-9200-45b4-a7a5-2b86f5f46691.png": {
+      "manifest": "encrypted/images/2e48cbfa-9200-45b4-a7a5-2b86f5f46691.png.manifest.json"
+    },
+    "images/2e56d387-c5d7-4d72-9026-dd131b8dc784.png": {
+      "manifest": "encrypted/images/2e56d387-c5d7-4d72-9026-dd131b8dc784.png.manifest.json"
+    },
+    "images/5d3397b2-4bc8-4560-bc3b-5984fe0dfa05.png": {
+      "manifest": "encrypted/images/5d3397b2-4bc8-4560-bc3b-5984fe0dfa05.png.manifest.json"
+    },
     "videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4": {
       "manifest": "encrypted/videos/video-371011fa-3488-4d84-bb20-00f5e37568ff.mp4.manifest.json"
     }

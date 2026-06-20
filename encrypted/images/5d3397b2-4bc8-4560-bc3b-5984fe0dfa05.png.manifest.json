@@ -1,0 +1,16 @@
+{
+  "logicalPath": "images/5d3397b2-4bc8-4560-bc3b-5984fe0dfa05.png",
+  "fileId": "5973aee098ca4f052a99ea16f0560687bef66ea21cf6b431868cd3eb424cdc2d",
+  "mime": "image/png",
+  "addedAt": "2026-06-20T23:01:23.851Z",
+  "modifiedAt": "2026-06-20T23:01:23.851Z",
+  "plaintextSize": 2197750,
+  "encryptedSize": 2197766,
+  "contentDigest": "keyed-blake3:YvvizeTSJSPN3ZFywjhBuSHfuRab7_K5VFlP7mYGKus",
+  "layout": {
+    "kind": "single",
+    "salt": "8ElVRXACHLf5XjiSsbL3fQ",
+    "nonce": "utbB7Qxa1V9h3lMB",
+    "object": "encrypted/images/5d3397b2-4bc8-4560-bc3b-5984fe0dfa05.png.enc"
+  }
+}
