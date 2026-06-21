@@ -1,4 +1,53 @@
 {
   "version": 1,
-  "files": {}
+  "files": {
+    "other/anita-preview.png": {
+      "path": "static/other/anita-preview.png",
+      "mime": "image/png",
+      "addedAt": "2026-06-21T08:09:31.231Z",
+      "modifiedAt": "2026-06-21T08:09:31.231Z",
+      "size": 1089003,
+      "digest": "blake3:5331b0e8f24da9de4ca09600521174f172b25903cdc39ae26bc851914d92621a"
+    },
+    "other/anita.mp4": {
+      "path": "static/other/anita.mp4",
+      "mime": "video/mp4",
+      "addedAt": "2026-06-21T08:09:31.231Z",
+      "modifiedAt": "2026-06-21T08:09:31.231Z",
+      "size": 5431124,
+      "digest": "blake3:d477dbe2831fb5b82a76ae2846118cb5ccf4839fe6a780d28fe864c492f89e96"
+    },
+    "other/brie-preview.png": {
+      "path": "static/other/brie-preview.png",
+      "mime": "image/png",
+      "addedAt": "2026-06-21T08:09:31.231Z",
+      "modifiedAt": "2026-06-21T08:09:31.231Z",
+      "size": 871126,
+      "digest": "blake3:462476933c3a52c664e42567958ed4c18122264a0109675333040edee255e4de"
+    },
+    "other/brie.mp4": {
+      "path": "static/other/brie.mp4",
+      "mime": "video/mp4",
+      "addedAt": "2026-06-21T08:09:31.231Z",
+      "modifiedAt": "2026-06-21T08:09:31.231Z",
+      "size": 3044907,
+      "digest": "blake3:511c4c63904586bdc96adfc831adb0240bb13e854219ad5f2e24a6544990a6f2"
+    },
+    "other/kamala-preview.png": {
+      "path": "static/other/kamala-preview.png",
+      "mime": "image/png",
+      "addedAt": "2026-06-21T08:09:31.231Z",
+      "modifiedAt": "2026-06-21T08:09:31.231Z",
+      "size": 316395,
+      "digest": "blake3:e796f5cf6575a5ae60df5ef2a610d19fc1824ddfdb1172cb8b31c5e5a6faa412"
+    },
+    "other/kamala.mp4": {
+      "path": "static/other/kamala.mp4",
+      "mime": "video/mp4",
+      "addedAt": "2026-06-21T08:09:31.231Z",
+      "modifiedAt": "2026-06-21T08:09:31.231Z",
+      "size": 1344004,
+      "digest": "blake3:2b02d503c8096d01c20bbb281c826a02c267c6cb9905259d8a8f8b68213ad081"
+    }
+  }
 }
