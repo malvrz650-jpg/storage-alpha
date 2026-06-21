@@ -33,6 +33,38 @@
       "size": 3044907,
       "digest": "blake3:511c4c63904586bdc96adfc831adb0240bb13e854219ad5f2e24a6544990a6f2"
     },
+    "other/daisy-preview.png": {
+      "path": "static/other/daisy-preview.png",
+      "mime": "image/png",
+      "addedAt": "2026-06-21T08:22:08.482Z",
+      "modifiedAt": "2026-06-21T08:22:08.482Z",
+      "size": 751438,
+      "digest": "blake3:308c5049a1dce348db05092e8ea667db24402d3dbff6dfcaa049a5e25c6a500a"
+    },
+    "other/daisy.mp4": {
+      "path": "static/other/daisy.mp4",
+      "mime": "video/mp4",
+      "addedAt": "2026-06-21T08:22:08.482Z",
+      "modifiedAt": "2026-06-21T08:22:08.482Z",
+      "size": 3794437,
+      "digest": "blake3:876d35d8b4d9c77bad575d1dd6ca885c3acc39cfa5f123a438dc8018c32a8a33"
+    },
+    "other/date-preview.png": {
+      "path": "static/other/date-preview.png",
+      "mime": "image/png",
+      "addedAt": "2026-06-21T08:22:08.482Z",
+      "modifiedAt": "2026-06-21T08:22:08.482Z",
+      "size": 836037,
+      "digest": "blake3:17e801f909657d5fb339893e1926f393e496855253545e6f6e7c52119873cf86"
+    },
+    "other/date.mp4": {
+      "path": "static/other/date.mp4",
+      "mime": "video/mp4",
+      "addedAt": "2026-06-21T08:22:08.482Z",
+      "modifiedAt": "2026-06-21T08:22:08.482Z",
+      "size": 3132318,
+      "digest": "blake3:5636d71d50590be0f45abe54a96dd387890f17c9a15ccfe61b16c5383f431695"
+    },
     "other/kamala-preview.png": {
       "path": "static/other/kamala-preview.png",
       "mime": "image/png",
